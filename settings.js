@@ -11,7 +11,7 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
+global.alivemsg = `📤♥️RP-King is here😇
 🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
 
 
@@ -29,11 +29,11 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] //ur owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" //ur owner name
-global.ytname = "" //ur yt chanel name
-global.socialm = "GitHub: prabhasha2006" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['+917006833006'] //ur owner number
+global.ownername = "😎RP-King" //ur owner name
+global.whatsappname = "http://chat.whatsapp.com/E5ALSLQSgBBJoZhVSQKG74" //ur yt chanel name
+global.socialm = "Whatsapp: http://chat.whatsapp.com/E5ALSLQSgBBJoZhVSQKG74" //ur github or insta name
+global.location = "India, J&K, Srinagar" //ur location
 
 //bot body 
 global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
@@ -42,19 +42,19 @@ global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in 
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
 global.antibad = "false" // To remove bad word senders
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //ur tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.owner = ['+917006833006']
+global.ownertag = '+917006833006' //ur tag number
+global.botname = 'RP-KING BOT' //ur bot name
+global.packname = "Social Mefia Club" // sticker packname
+global.author = "♥️RP-KING" // sticker author
+global.dragonemoji = '♥️' // Menu emoji
+global.footer = '[ ◉ ♥️RP-KING ]' //
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
+global.button = '☰ Whatsapp ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'http://chat.whatsapp.com/E5ALSLQSgBBJoZhVSQKG74' //Change Your Button's URL
 
 //damtabase
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+917006833006'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -81,12 +81,12 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
-    admin: 'Only Admins can use it!😉',
-    botAdmin: 'Bot wants to be an Admin😥',
-    owner: 'Only Owner can use this!😉',
+    admin: 'Only RP-KING and Admins can use it!😉',
+    botAdmin: 'RP-KING bot wants to be an Admin😥',
+    owner: 'Only RP-KING can use this!😉',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot😝',
+    bot: 'This Feature Is Only For RP-KING Bot😝',
     wait: '👉👈Pleas Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
