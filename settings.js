@@ -40,12 +40,12 @@ global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive pictur
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
-global.antibad = "false" // To remove bad word senders
+global.antibad = "true" // To remove bad word senders
 
 global.owner = ['+917006833006']
 global.ownertag = '+917006833006' //ur tag number
 global.botname = 'RP-KING BOT' //ur bot name
-global.packname = "Social Mefia Club" // sticker packname
+global.packname = "BY RP-KING" // sticker packname
 global.author = "♥️RP-KING" // sticker author
 global.dragonemoji = '♥️' // Menu emoji
 global.footer = '[ ◉ ♥️RP-KING ]' //
