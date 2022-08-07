@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘔𝘋 | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/VCtXyTK/20220730-002949.jpg",
+  "name": "RP KING BOT",
+  "description": "RP╺ king - 𝘔𝘋 | By: RP KING | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+  "repository": "https://chat.whatsapp.com/E5ALSLQSgBBJoZhVSQKG74",
+  "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghQcIq7rGu0PCturWKAYpBK525LKB-ZLJcw&usqp=CAU",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
