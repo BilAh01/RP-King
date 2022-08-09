@@ -36,7 +36,7 @@ global.socialm = "Whatsapp: http://chat.whatsapp.com/E5ALSLQSgBBJoZhVSQKG74" //u
 global.location = "India, J&K, Srinagar" //ur location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghQcIq7rGu0PCturWKAYpBK525LKB-ZLJcw&usqp=CAU` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" (CALL ගන්න අය block කිරීමට "true")
